@@ -1,5 +1,5 @@
 # 蕾忍对决是完全免费的同人性质游戏
-[制卡器](https://github.com/Dospy-Honor/Lexninja-editor)
+[制卡器](https://github.com/Dospy-Honor/Lexninja-editor) 正在完成中，可以来帮忙改改
 ## 游戏前的准备工作：
 拿出召唤物卡和状态卡牌堆，放置在手边
 选择一个角色，把舍利子回魂正面放置在角色旁边
